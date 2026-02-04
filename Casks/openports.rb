@@ -1,6 +1,6 @@
 cask "openports" do
-  version "1.1.0"
-  sha256 "e90cbca2958cd13c0673d3f9c44f0235488f425162a6ce450e1ac111eded2eac"
+  version "1.1.1"
+  sha256 "4fb93ec5fd6deb90d29170e29f7939fa2e50989e541ba7589896f1da142f9943"
 
   url "https://github.com/MohamedMohana/openports/releases/download/v#{version}/OpenPorts-v#{version}.zip",
       verified: "github.com/MohamedMohana/openports/"
